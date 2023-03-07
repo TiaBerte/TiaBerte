@@ -14,7 +14,7 @@ I mostly the following technologies for data manipulating and visualizing data a
 * Bokeh <img src="https://user-images.githubusercontent.com/33131887/223472637-9a3bf5a5-eeaa-4b2a-acf7-ddefb925e989.svg" width="20" height="20"/>
 
 Most of the project are correlated with a report written in $\LaTeX$.
-[![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaBerte&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaBerte&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
