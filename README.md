@@ -10,9 +10,9 @@ I mostly the following technologies for data manipulating and visualizing data a
 * PyTorch <img src="https://user-images.githubusercontent.com/33131887/223469040-9836a371-5e2f-45c7-8ebf-a5c2bf61d866.png" width="20" height="20"/>
 * TensorFlow <img src="https://user-images.githubusercontent.com/33131887/223469529-a654c6e0-2a85-4534-a756-09babe8305ec.svg" width="20" height="20"/>
 * Numpy <img src="https://user-images.githubusercontent.com/33131887/223469860-eeef6350-8ade-45aa-9d42-ee44647053bb.svg" width="20" height="20"/>
-* OpenCV  <img src="https://user-images.githubusercontent.com/33131887/223470943-43aa2443-5835-4505-ad9e-12a8ea697220.png" width="20" height="20"/>
-* Bokeh <img src="https://user-images.githubusercontent.com/33131887/223472637-9a3bf5a5-eeaa-4b2a-acf7-ddefb925e989.svg" width="20" height="20"/>
-* Pandas <img src="https://user-images.githubusercontent.com/33131887/223473237-bdd1be91-2e3a-4a5c-9c1f-8950e2e22f65.svg" width="20" height="20"/>
+* OpenCV  <img src="https://user-images.githubusercontent.com/33131887/223470943-43aa2443-5835-4505-ad9e-12a8ea697220.png" width="30" height="30"/>
+* Bokeh <img src="https://user-images.githubusercontent.com/33131887/223472637-9a3bf5a5-eeaa-4b2a-acf7-ddefb925e989.svg" width="30" height="30"/>
+* Pandas <img src="https://user-images.githubusercontent.com/33131887/223473237-bdd1be91-2e3a-4a5c-9c1f-8950e2e22f65.svg" width="40" height="40"/>
 
 
 
