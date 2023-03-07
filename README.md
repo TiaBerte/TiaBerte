@@ -7,4 +7,5 @@ I've just completed a 6-months internship at Datalogic USA in California. I work
 
 I mostly the following technologies for data manipulating and visualizing data and training models.
 # Python <img src="https://user-images.githubusercontent.com/33131887/223467306-6cb23e35-bd18-44d5-b00c-192c8ebc2b9e.png" width="15" height="15"/>
-# PyTorch <img_src="https://user-images.githubusercontent.com/33131887/223468637-896f8940-39e1-4750-9dc3-33cf74e9c137.svg" width="15" height="15"/>
+# PyTorch <img src="https://user-images.githubusercontent.com/33131887/223469040-9836a371-5e2f-45c7-8ebf-a5c2bf61d866.png" width="15" height="15"/>
+
