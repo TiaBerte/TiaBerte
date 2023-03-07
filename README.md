@@ -13,7 +13,7 @@ I mostly the following technologies for data manipulating and visualizing data a
 * OpenCV  <img src="https://user-images.githubusercontent.com/33131887/223474322-6552e2e7-a70a-463c-870a-9bc712a4b82c.svg" width="20" height="20"/>
 * Bokeh <img src="https://user-images.githubusercontent.com/33131887/223472637-9a3bf5a5-eeaa-4b2a-acf7-ddefb925e989.svg" width="20" height="20"/>
 
-Most of the project are correlated with a report written in \latex
+Most of the project are correlated with a report written in \LaTeX
 
 
 
