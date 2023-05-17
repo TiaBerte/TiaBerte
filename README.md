@@ -16,7 +16,7 @@ I mostly use the following framework for manipulating and visualizing data and t
 
 Most of the projects are correlated with a report written in $\LaTeX$.
 
-[![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaBerte&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tia's github stats](https://github-readme-stats.vercel.app/api?username=TiaBerte)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
