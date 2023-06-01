@@ -3,7 +3,7 @@
 
 Hi there! 👋  
 I'm M.Sc. student in Artificial Intelligence at the University of Bologna. I'm deeply passionate about Deep Learning applied to CV, NLP and RL and all the maths that makes it work.  
-I've just completed a 6-month internship at Datalogic USA Inc. in Pasadena, California. I worked on deep metric learning techniques for solbing an open set learning problem.
+I've just completed a 6-month internship at Datalogic USA Inc. in Pasadena, California. I worked on deep metric learning techniques for solving an open set learning problem.
 
 I mostly use the following frameworks for manipulating and visualizing data and training models.
 * Python <img src="https://user-images.githubusercontent.com/33131887/223467306-6cb23e35-bd18-44d5-b00c-192c8ebc2b9e.png" width="20" height="20"/>
